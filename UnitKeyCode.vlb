@@ -1,0 +1,10 @@
+﻿[lblKeyCode]
+Coordinates=10,10,80,58
+
+[]
+Coordinates=163,10,53,58
+Visible=True
+
+[lblControl]
+Coordinates=100,10,53,58
+
